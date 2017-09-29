@@ -1,0 +1,18 @@
+# see http://docs.vulcanjs.org/packages
+
+vulcan:core
+
+############ Language Packages ############
+
+vulcan:i18n-en-us
+
+############ Accounts Packages ############
+
+accounts-password@1.4.0
+# accounts-twitter
+# accounts-facebook
+
+############ Your Packages ############
+
+project-forum
+# example-customization
